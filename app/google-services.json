@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1069571488155",
+    "project_id": "social-app-f9b77",
+    "storage_bucket": "social-app-f9b77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069571488155:android:5e84b7890eb6e714fe093e",
+        "android_client_info": {
+          "package_name": "com.example.womeninfinity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069571488155-lebn14roum0csigv7i1jl8n97qufth1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMid-j5Pc2f3EXJChWp-9QNAWPq9zw-Kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069571488155-lebn14roum0csigv7i1jl8n97qufth1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
